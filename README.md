@@ -18,7 +18,7 @@ vue
 
 ### 部分功能展示
 
-![image-20250127190651417](C:\Users\Qizhe\AppData\Roaming\Typora\typora-user-images\image-20250127190651417.png)
+![image-20250127190651417](https://github.com/AND-Q/exam-management-system/blob/main/images/image-20250127190633243.png)
 
 ![image-20250127190633243](C:\Users\Qizhe\AppData\Roaming\Typora\typora-user-images\image-20250127190633243.png)
 
