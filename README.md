@@ -4,6 +4,8 @@
 
 监考管理系统（exam-management-system）
 
+我在本科阶段写过的项目vue+springboot+mybatisplus项目
+
 ### 项目技术栈
 
 Java
